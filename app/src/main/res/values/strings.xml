@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TAWalletMVP</string>
+
+    <!--Login-->
+    <string name="login_dummy">Login Dummy</string>
+    <string name="login">Login</string>
+    <string name="email">Mobile</string>
+    <string name="password">Password</string>
+
+    <!--Login Validation-->
+    <string name="empty_email">Please provide a non empty Mobile.</string>
+    <string name="invalid_email">Please provide a valid Mobile.</string>
+    <string name="empty_password">Please provide a non empty password.</string>
+
+    <!--App Message-->
+    <string name="api_retry_error">Please retry!</string>
+    <string name="api_default_error">Something wrong happened!</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="connection_error">Internet connection lost!</string>
+</resources>
